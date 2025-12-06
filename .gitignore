@@ -32,8 +32,5 @@ nb-configuration.xml
 .DS_Store
 Thumbs.db
 
-# Generated log files
-logs/
-*.json
-*.csv
+
 
